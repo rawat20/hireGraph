@@ -142,10 +142,10 @@ The app will open at `http://localhost:8501`
 ## 🖼️ Project Screenshots
 
 ### Main Interface
-![hireGraph Main Interface](./screenshots/Screenshot%202026-01-02%20at%203.46.57%20PM.png)
+![hireGraph Main Interface](screenshots/main_interface.png)
 
 ### Optimization in Progress
-![Optimization Progress](./screenshots/Screenshot%202026-01-02%20at%203.47.18%20PM.png)
+![Optimization Progress](screenshots/optimization.png)
 
 *Your project in action showing the AI-powered resume optimization workflow.*
 
