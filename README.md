@@ -145,7 +145,7 @@ The app will open at `http://localhost:8501`
 ![hireGraph Main Interface](screenshots/main_interface.png)
 
 ### Optimization in Progress
-![Optimization Progress](screenshots/optimization.png)
+![Optimization Progress](screenshots/optimize.png)
 
 *Your project in action showing the AI-powered resume optimization workflow.*
 
